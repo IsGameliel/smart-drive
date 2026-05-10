@@ -1,0 +1,6 @@
+{
+  "name": "Smart Vehicle Platform",
+  "description": "Mobile dashboard for vehicle maintenance, remote control, and diagnostics tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
